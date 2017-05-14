@@ -6,6 +6,9 @@ categories: mobile
 image: Scores Listening Room Loading State.jpg
 description: an app for students to learn about musical and performance scores
 ---
+<br>
+<br>
+
 #### Project Brief
 **Client:** The Getty, Los Angeles, CA.
 <br>

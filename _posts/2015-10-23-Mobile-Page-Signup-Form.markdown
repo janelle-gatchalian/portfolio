@@ -6,6 +6,9 @@ categories: mobile, desktop
 image: You_go_girl_weekly_dose_form.jpg
 description: a landing page to turn followers into email subscribers
 ---
+<br>
+<br>
+
 #### Project Brief
 
 **Client:** Kristen Jones, life coach, [You Go! Girl Coaching](http://yougogirlcoaching.net).

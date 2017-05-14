@@ -6,6 +6,9 @@ categories: research
 image: Human-Centered Design Insights.jpg
 description: lunch and meal solutions for busy 9-5ers at the Getty
 ---
+<br>
+<br>
+
 #### Project Brief
 **Client:** staff of The Getty, Los Angeles, CA. <br>
 

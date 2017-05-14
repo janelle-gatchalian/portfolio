@@ -6,6 +6,9 @@ categories: desktop
 image: Bake and Take Home Desktop.jpg
 description: a combination of content marketing and eCommerce in one site
 ---
+<br>
+<br>
+
 #### Project Brief
 
 **Assignment:** As part of the UX II: Iteration course at UCLA Extension, I designed an eCommerce site that combines content marketing in the experience.

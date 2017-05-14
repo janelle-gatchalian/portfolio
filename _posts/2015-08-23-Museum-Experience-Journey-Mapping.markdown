@@ -6,6 +6,9 @@ categories: research
 image: Getty journey map default.jpg
 description: mapping the experience of one persona entering and exiting the Getty
 ---
+<br>
+<br>
+
 #### Project Brief
 
 **Client:** The Getty, Los Angeles, CA.
@@ -21,7 +24,7 @@ description: mapping the experience of one persona entering and exiting the Gett
 
 #### Sample Deliverable
 
-##### **A journey map of the facilitator and task-completing visitor, Dennis** 
+##### **A journey map of the facilitator and task-completing visitor, Dennis**
 
 ![Dennis Getty journey map]({{site:baseurl}}/assets/images/Getty journey map.jpeg)
 Key: <br>

@@ -6,6 +6,9 @@ categories: desktop
 image: Pattern Library home screenshot.jpg
 description: interaction and UX guidelines broken out into elements
 ---
+<br>
+<br>
+
 #### Project Brief
 
 **Assignment:** As part of the UX II: Iteration course at UCLA Extension, I designed a pattern library based on [atomic design principles.](http://bradfrost.com/blog/post/atomic-web-design/)
